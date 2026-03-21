@@ -18,4 +18,4 @@ skibuild is the core engine of the ski.ai ecosystem, designed to orchestrate the
 
 ## Repository goal
 
-Provide a seamless, reproducible environment where AI-native tools can be built, verified, and exported as standardized skills for use in skilib and benchmarking in skibench.
+Provide a seamless, reproducible environment where AI-native tools can be built, verified, and exported as standardized skills for use in skibundle and benchmarking in skibench.
